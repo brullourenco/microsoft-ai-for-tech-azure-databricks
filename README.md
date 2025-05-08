@@ -21,6 +21,12 @@ Após a criação e configuração, acessei a área de Monitoramento para visual
 Validei que o recurso foi criado e que as ações realizadas estavam registradas corretamente.
 Print: Print da tela de logs do recurso
 
+## Prints:
+![image](https://github.com/user-attachments/assets/1f8ee5fa-dc08-4232-94c0-4eac9e76ca69)
+
+![image](https://github.com/user-attachments/assets/945ec8f1-d02f-431b-976f-e56062fd55a2)
+
+
 ### 💡 Insights Aprendidos
 A importância de atribuir funções com o princípio do menor privilégio (evitando excessos de permissão).
 O Azure registra toda movimentação no recurso, o que facilita auditorias futuras.
